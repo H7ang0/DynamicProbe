@@ -1,0 +1,9 @@
+Package: com.hyangu.dynamicprobe
+Name: DynamicProbe
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Dynamic analysis tool for iOS apps
+Maintainer: hyangu
+Author: hyangu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000) 
